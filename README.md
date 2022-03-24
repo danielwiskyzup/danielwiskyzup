@@ -13,9 +13,4 @@ Meu nome é Daniel e eu sou desenvolvedor back-end.
 - :green_heart: NoSQL
 - :envelope: Mensageria/Streams
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielwiskyzup&show_icons=true&count_private=true&locale=pt-BR" alt="danielwiskyzup" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielwiskyzup&layout=compact&langs_count=7&count_private=true&locale=pt-BR" alt="danielwiskyzup" />
-</div>
-
 ![Snake animation](https://github.com/danielwiskyzup/danielwiskyzup/blob/output/github-contribution-grid-snake.svg)
